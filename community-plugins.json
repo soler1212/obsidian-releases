@@ -16343,5 +16343,12 @@
     "author": "Ankit Kapur",
     "description": "Automatically updates a 'status' property in a note when its card is moved on a Kanban board",
     "repo": "ankit-kapur/obsidian-kanban-status-updater-plugin"
+},
+{
+  "id": "note-status",
+  "name": "Obsidian Note Status",
+  "author": "Aleix Soler",
+  "description": "Enhance your note organization with a status management system. Assign and track statuses (active, on hold, completed, dropped) for your notes with a customizable interface including status pane, dropdown, and file explorer integration.",
+  "repo": "devonthesofa/obsidian-note-status"
 }
 ]
